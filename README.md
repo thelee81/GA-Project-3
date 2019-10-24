@@ -12,7 +12,7 @@ Problem undertaken to solve is that intentional/unintentional miss categorisatio
 
 Models are evaluated by Classification Accuracy score
 
-$$\text{Classification Accuracy score}={\frac{True Positive + True Negative}{True Positive + True Negative + False Positive + False Negative}}$$
+Classification Accuracy score=(True Positive + True Negative)/(True Positive + True Negative + False Positive + False Negative)
 
 # Scope
 
