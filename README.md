@@ -31,8 +31,8 @@ Classification Accuracy score=(True Positive + True Negative)/(True Positive + T
 
 ## Project Deliverables
 
-- A README.md (that isn't this file)
-- Jupyter notebook(s) with your analysis and models
+- A README.md
+- Jupyter notebook analysis and models
 - Data files
 - Presentation slides
 - Any other necessary files (images, etc.)
