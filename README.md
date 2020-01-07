@@ -1,5 +1,5 @@
 # Reddit OverWatch - Data collection using Reddit API and Data Cleaning
-
+<img src="https://dynaimage.cdn.cnn.com/cnn/c_fill,g_auto,w_1200,h_675,ar_16:9/https%3A%2F%2Fcdn.cnn.com%2Fcnnnext%2Fdam%2Fassets%2F190626140144-reddit-app-stock.jpg">
 # Problem Statement
 
 Problem undertaken to solve is that intentional/unintentional miss categorisation of Reddit users posts with suicide tendencies going unnoticed under **Depression** subreddit category. Its a classification problem. A classification model is needed that predicts the proper category of the post a user written/writing  actually belongs to **Depression** subreddit or **SuicideWatch** subreddit. Accuracy to classify **SuicideWatch** category is important but misclassification of **Depression** is a real concern.
